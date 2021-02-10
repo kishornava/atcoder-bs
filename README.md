@@ -2,4 +2,4 @@
 
 Atcoder beginner's selection https://atcoder.jp/contests/abs
 
--Practice A WElcome to Atcoder
+- Practice A WElcome to Atcoder
