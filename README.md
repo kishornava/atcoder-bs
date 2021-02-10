@@ -1,5 +1,7 @@
+
 # atcoder-bs
 
 Atcoder beginner's selection https://atcoder.jp/contests/abs
 
-- Practice A WElcome to Atcoder
+- Practice Welcome to Atcoder
+- New type of practice 
